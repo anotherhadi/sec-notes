@@ -6,11 +6,16 @@ REPO_ROOT = Path(__file__).resolve().parents[2]
 README = REPO_ROOT / "README.md"
 SKIP_DIRS = {".git", ".github", ".direnv"}
 SECTION_TITLE_OVERRIDES = {"osint": "OSINT"}
+DESCRIPTION = "A personal collection of security notes and cheatsheets, covering offensive security and OSINT."
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?\n)---\n", re.DOTALL)
 FIELD_RE = re.compile(r'^(\w+):\s*"?(.*?)"?\s*$')
-TOC_START = "<!-- START doctoc generated TOC please keep comment here to allow auto update -->"
-TOC_END = "<!-- END doctoc generated TOC please keep comment here to allow auto update -->"
+TOC_START = (
+    "<!-- START doctoc generated TOC please keep comment here to allow auto update -->"
+)
+TOC_END = (
+    "<!-- END doctoc generated TOC please keep comment here to allow auto update -->"
+)
 
 
 def existing_toc_block():
@@ -61,6 +66,8 @@ def main():
 
     lines = [
         "# Sec Notes",
+        "",
+        DESCRIPTION,
         "",
         existing_toc_block(),
         "",

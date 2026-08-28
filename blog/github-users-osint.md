@@ -1,7 +1,6 @@
 ---
 title: "Unmasking Github Users: How to Identify the Person Behind Any Github Profile"
 description: "Ever wondered who is behind a specific Github username? This guide covers advanced OSINT techniques to deanonymize users, find hidden email addresses, and link Github accounts to real-world identities."
-image: "../../../public/images/blog/github-osint-users.png"
 tags: ["osint", "github", "cybersecurity"]
 publishDate: "2026-01-01"
 ---

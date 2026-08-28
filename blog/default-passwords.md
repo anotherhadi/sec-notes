@@ -1,7 +1,6 @@
 ---
 title: "The Password is 'admin': Why Default Credentials Are Still Breaking the Internet"
 description: "Default credentials like admin:admin remain one of the most exploited vulnerabilities on the internet. Learn why they're dangerous, how the Mirai botnet took down half the web with just 62 passwords, and how to protect your infrastructure: plus introducing default-creds, an open-source database to look up factory-set credentials in seconds."
-image: "../../../public/images/blog/default-passwords.png"
 tags: ["botnet", "passwords", "cybersecurity"]
 publishDate: "2026-03-13"
 ---

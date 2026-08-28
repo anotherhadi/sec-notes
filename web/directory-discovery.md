@@ -18,7 +18,7 @@ publishDate: 2026-06-01
 
 ## FFUF
 
-See also [FFUF](/notes/web/ffuf) for fuzzing-based directory discovery.
+See also [FFUF](./ffuf.md) for fuzzing-based directory discovery.
 
 ## Robots.txt
 

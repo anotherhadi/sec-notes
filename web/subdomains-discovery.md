@@ -20,7 +20,7 @@ publishDate: 2026-06-01
 
 ## FFUF
 
-See also [FFUF](/notes/web/ffuf) for fuzzing-based subdomain discovery.
+See also [FFUF](./ffuf.md) for fuzzing-based subdomain discovery.
 
 ## Google Dorking
 

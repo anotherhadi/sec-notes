@@ -31,7 +31,7 @@ Every account has two identifiers:
 - **Handle**: `@username` (can change)
 - **User ID**: numeric, permanent (survives handle changes and suspensions)
 
-Unlike [Bluesky](/notes/osint/bluesky), X now requires a login to browse most content in the browser. The free API tier (v2) is severely limited. Most open-source scraping tools that bypassed the API (Twint, snscrape, GetOldTweets3) are broken since the 2023 API lockdown.
+Unlike [Bluesky](./bluesky.md), X now requires a login to browse most content in the browser. The free API tier (v2) is severely limited. Most open-source scraping tools that bypassed the API (Twint, snscrape, GetOldTweets3) are broken since the 2023 API lockdown.
 
 ## Account Enumeration
 
