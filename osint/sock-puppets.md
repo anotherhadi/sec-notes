@@ -18,13 +18,15 @@ publishDate: 2026-05-03
     - [Receive Free Sms](#receive-free-sms-1)
     - [Online Sim](#online-sim)
     - [Sms 4 Sats](#sms-4-sats)
+
 - [Information generation](#information-generation)
 - [Bypass phone verification](#bypass-phone-verification)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-Sock puppets are fake identities use to gather information from a target.
-The sock puppet should have no link between your personal information and the fakes ones. (No ip address, mail, follow, etc..)
+Sock puppets are fake identities use to gather information from a target. The
+sock puppet should have no link between your personal information and the fakes
+ones. (No ip address, mail, follow, etc..)
 
 ## Information generation
 
@@ -50,6 +52,13 @@ The sock puppet should have no link between your personal information and the fa
 </a>
 
 ## Bypass phone verification
+
+<a href="https://temp-number.com/countries" class="link-card not-prose" target="_blank">
+  <span>
+    <h4>Temp-number</h4>
+    <p>Free Temporary Phone Numbers by Country</p>
+  </span>
+</a>
 
 <a href="https://www.smspool.net/" class="link-card not-prose" target="_blank">
   <span>
